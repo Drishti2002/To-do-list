@@ -1,0 +1,43 @@
+body{
+  background-color: khaki;
+}
+.card{
+  border-radius: 15px;
+  background-color:darkslategray;
+}
+.card-title{
+  color: khaki;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.btn{
+  background-color: darkslategray;
+  color:khaki;
+  border-color:khaki; 
+}
+
+.btn:hover{
+  background-color: khaki;
+  color:darkslategray;
+}
+
+.todo-list{
+  border: 1px solid khaki;
+  color:khaki;
+  cursor: pointer;
+  text-transform: capitalize;
+  background-color:rgb(7, 8, 8);
+}
+
+.editbtn{
+  color:rgb(22, 228, 22);
+}
+
+.delbtn{
+  color:rgb(240, 9, 9);
+}
+
+.form-check-input:checked{
+  background-color:rgb(236, 109, 109) ;
+  border-color:lightcoral;
+}
